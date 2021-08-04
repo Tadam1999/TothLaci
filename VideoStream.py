@@ -1,4 +1,5 @@
 from init_dc import client
+import pathlib
 
 
 class VideoStream:
